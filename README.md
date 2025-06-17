@@ -21,6 +21,7 @@ The mixing ratio α signifcantly impacts classifcation accuracy. Optimal perform
 ![image](https://github.com/user-attachments/assets/176980b8-1135-45b7-92e2-5fe3899efb47)
 
 Performance comparison between the baseline model and augmented models.
+
 | Model                         | Accuracy (%) | Precision (%) | Recall (%) | F1 Score (%) |
 |-------------------------------|--------------|---------------|------------|--------------|
 | Baseline (No Augmentation)     | 93           | 93.1          | 93         | 92.9         |
