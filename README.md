@@ -1,5 +1,5 @@
 # DAugSindhi: A Data Augmentation Approach for Enhancing Sindhi Language Text Classifcation
-
+<span style="color:blue;">DAugSindhi: A Data Augmentation Approach for Enhancing Sindhi Language Text Classification</span>
 [![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/rajavavek/DAugSindhi) [![Paper](https://img.shields.io/badge/Paper-DOI:10.1007/s44248--025--00040--8-red?logo=read-the-docs)](https://doi.org/10.1007/s44248-025-00040-8) [![Authors](https://img.shields.io/badge/Authors-Raja_Vavekanand,_Bhagwan_Das,_Teerath_Kumar-pink?logo=academia)](#)
 
 
@@ -20,6 +20,14 @@ Experiments were conducted on a Sindhi dataset containing **3364 news articles**
 The mixing ratio α signifcantly impacts classifcation accuracy. Optimal performance occurs when α=0.5, balancing original and augmented data
 ![image](https://github.com/user-attachments/assets/176980b8-1135-45b7-92e2-5fe3899efb47)
 
+The performance comparison between the baseline model and augmented models shows significant improvements. The baseline achieved 93% accuracy, while augmented methods like Random Deletion, Back Translation, and Paraphrasing reached 99%, 96%, and 94% accuracy, respectively, demonstrating their effectiveness in enhancing model performance.
+
+| Model                         | Accuracy (%) | Precision (%) | Recall (%) | F1 Score (%) |
+|-------------------------------|--------------|---------------|------------|--------------|
+| Baseline (No Augmentation)     | 93           | 93.1          | 93         | 92.9         |
+| Random Deletion                | 99           | 99            | 99         | 98.9         |
+| Back Translation               | 96           | 96            | 96         | 96           |
+| Paraphrasing                   | 94           | 94            | 94         | 94           |
 
 This project sets a strong baseline for Sindhi NLP and demonstrates how even simple augmentation techniques can meaningfully enhance performance for underrepresented languages. It also opens doors for future research involving hybrid methods and larger datasets to further evolve Sindhi language technologies.
 
