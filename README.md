@@ -2,7 +2,12 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/rajavavek/DAugSindhi) [![Paper](https://img.shields.io/badge/Paper-DOI:10.1007/s44248--025--00040--8-red?logo=read-the-docs)](https://doi.org/10.1007/s44248-025-00040-8) [![Web](https://img.shields.io/badge/Web-DAugSindhi-grey)](https://rajavavek.github.io/DAugSindhi/) 
 
-[![Authors](https://img.shields.io/badge/Authors-Raja_Vavekanand,_Bhagwan_Das,_Teerath_Kumar-pink?logo=academia)](#)
+
+<p align="center" style="color:blue; font-size:24px;">
+  Raja Vavekanand, Bhagwan Das, Teerath Kumar
+</p>
+
+
 
 ## Abstract
 This paper presents DAugSindhi, a data augmentation approach for improving Sindhi text classification, addressing the scarcity of annotated datasets. The study evaluates techniques like Easy Data Augmentation (EDA), Back Translation, Paraphrasing, and Text Generation using Large Language Models (LLMs). Experiments on a Sindhi dataset of 3364 news articles showed that EDA, especially Random Deletion, achieved the highest performance with a 99% F1 score in binary classification. Back Translation and Paraphrasing also provided notable improvements. This work sets a strong baseline for Sindhi text classification and highlights the potential of simple augmentation methods for enhancing NLP in low-resource languages. 
@@ -37,4 +42,6 @@ The performance comparison between the baseline model and augmented models shows
 | Paraphrasing                   | 94           | 94            | 94         | 94           |
 
 This project sets a strong baseline for Sindhi NLP and demonstrates how even simple augmentation techniques can meaningfully enhance performance for underrepresented languages. It also opens doors for future research involving hybrid methods and larger datasets to further evolve Sindhi language technologies.
+
+                                                  
 
