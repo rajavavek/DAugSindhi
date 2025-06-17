@@ -1,5 +1,6 @@
 # DAugSindhi: A Data Augmentation Approach for Enhancing Sindhi Language Text Classifcation
 
+[![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/rajavavek/DAugSindhi) [![Paper](https://img.shields.io/badge/Discover_Data-DOI:10.1007/s44248--025--00040--8-red?logo=read-the-docs)](https://doi.org/10.1007/s44248-025-00040-8) [![Authors](https://img.shields.io/badge/Authors-Raja_Vavekanand,_Bhagwan_Das,_Teerath_Kumar-pink?logo=academia)](#)
 
 
 ## Project Overview
